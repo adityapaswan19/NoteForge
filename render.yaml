@@ -1,5 +1,0 @@
-services:
-  - type: web
-    name: noteforge
-    runtime: static
-    staticPublishPath: .
